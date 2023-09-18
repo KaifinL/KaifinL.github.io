@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    object-fit: contain;
+}
+
+body {
+    background-image: url("./source/me1.JPG");
+  }
